@@ -1,0 +1,3 @@
+Array method
+
+const myArray
